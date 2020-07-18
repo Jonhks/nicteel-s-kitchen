@@ -4,12 +4,9 @@
   "description": "web flores",
   "main": "index.js",
   "scripts": {
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build",
-    "start": "npm run start",
-    "build": "react-scripts build"
+    "start": "npm run start"
   },
   "author": "Jonh Parra",
   "license": "ISC"
